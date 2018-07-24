@@ -1,4 +1,7 @@
 
-## This gem is no longer actively maintained or supported! 
+Since the original gem is no longer maintained, this fork is designed to help
+with the transition, and should be still functional.
 
-Please use [Shopify Theme Kit](https://shopify.github.io/themekit/) instead.
+Changes:
+
+- Updated `FileWatcher` to `Filewatcher`
